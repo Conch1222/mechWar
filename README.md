@@ -4,6 +4,7 @@
 
 - The main reason for doing this project is to practice the unity mechanism, such as prefab, collider, effects, animation, model, sound, etc., and to clarify some concepts.
 - This project is a game made for **practice**, so don't be surprised that it contains a lot of bugs!
+- This project was compiled and built using Unity 2018.4.18f1 (64-bit).
 
 ## How To Play
 
